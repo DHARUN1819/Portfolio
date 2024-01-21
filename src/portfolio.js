@@ -9,7 +9,7 @@ const about = {
   name: 'Dharun P',
   role: 'Full Stack Developer',
   description:
-    'Welcome to my web development portfolio! I am Dharun, a passionate and experienced Full Stack Developer dedicated to crafting interactive, user-friendly, and visually appealing websites. With a strong foundation in coding and a keen eye for design, I bring creativity and technical expertise to every project.',
+    'Welcome to my portfolio! I am Dharun, a passionate and experienced Full Stack Developer dedicated to crafting interactive, user-friendly, and visually appealing websites. With a strong foundation in coding and a keen eye for design, I bring creativity and technical expertise to every project.',
   resume: 'https://dharun-resume.tiiny.site/',
   social: {
     linkedin: 'https://www.linkedin.com/in/dharun-periyasamy/',
